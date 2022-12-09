@@ -1,4 +1,4 @@
-# EIP - #Hashtag NFT Collective Royalty Treasury
+# EIP Standard - #Hashtag NFT Collective Royalty Treasury Proposal
 
 |                |                                           |
 |----------------|-------------------------------------------|
