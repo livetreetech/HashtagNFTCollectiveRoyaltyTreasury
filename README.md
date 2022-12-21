@@ -1,3 +1,8 @@
+# VIEW THE PULL REQUEST HERE:
+https://github.com/ethereum/EIPs/pull/6145
+
+
+
 # EIP Standard - #Hashtag NFT Collective Royalty Treasury Proposal
 
 |                |                                           |
